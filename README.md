@@ -1,5 +1,3 @@
-# 06-homework
-
 # Homework 06: Pandas and GitHub
 
 A repository containing homework assignments I am completing as part of the Lede Program 2025.
